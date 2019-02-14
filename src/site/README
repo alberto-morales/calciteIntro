@@ -1,0 +1,8 @@
+
+Estos ficheros 
+
+\almacen.json
+\almacen\STOCKALMACEN.csv
+\almacen\STOCKALMACENFAKE.csv
+
+son referenciados en el post http://albertomorales.eu/blog/tratamiento-sql-de-archivos-csv-comparador-implementado-utilizando-apache-calcite/  .
